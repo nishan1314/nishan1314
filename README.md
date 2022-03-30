@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nishan Das</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-![Web Developer](https://www.linkpicture.com/q/Untitled-design_53.png)
+<img src="https://www.linkpicture.com/q/Untitled-design_53.png" alt="nishan1314" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishan1314&label=Profile%20views&color=0e75b6&style=flat" alt="nishan1314" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishan1314" alt="nishan1314" /></a> </p>
