@@ -1,3 +1,8 @@
+<html>
+<head>
+<meta name="google-site-verification" content="tQXjeTHEUHydiCsGJv1Z6ZS-bBy2OMrV3vsI9S22pv0" />
+</head>
+<body>
 <h1 align="center">Hi 👋, I'm Nishan Das</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img src="https://www.linkpicture.com/q/Untitled-design_53.png" alt="nishan1314" />
@@ -24,3 +29,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishan1314&show_icons=true&locale=en&layout=compact" alt="nishan1314" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nishan1314&show_icons=true&locale=en" alt="nishan1314" /></p>
+</body>
+</html>
