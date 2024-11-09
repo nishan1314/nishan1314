@@ -27,7 +27,7 @@
 <b>&#128200; Competitive Programming</b>
 <br />
 <p float="left">
-    <img height="230px" src="https://raw.githubusercontent.com/nishandas655/ct-stats/main/output/light_card.svg" alt="Statistics"/>
+    <img height="230px" src="https://raw.githubusercontent.com/nishan1314/ct-stats/main/output/light_card.svg" alt="Statistics"/>
 </p>
 <br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishan1314&show_icons=true&locale=en&layout=compact" alt="nishan1314" /></p>
