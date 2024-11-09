@@ -29,8 +29,6 @@
 <p float="left">
     <img height="230px" src="https://raw.githubusercontent.com/nishandas/ct-stats/main/output/light_card.svg" alt="Statistics"/>
 </p>
-<br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishan1314&show_icons=true&locale=en&layout=compact" alt="nishan1314" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nishan1314&show_icons=true&locale=en" alt="nishan1314" /></p>
 </body>
