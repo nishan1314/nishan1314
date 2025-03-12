@@ -34,7 +34,6 @@ Welcome to my GitHub profile! I'm a **Frontend Developer**.
 ---
 
 ## 🚧 What I'm Working On
-- 🔭 **Cybersecurity Projects:** Identifying and mitigating vulnerabilities.  
 - 🌱 **Django Projects:** Building scalable applications.  
 - 🏆 Improving competitive programming skills.  
 
