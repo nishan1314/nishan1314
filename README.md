@@ -6,8 +6,7 @@ Welcome to my GitHub profile! I'm a **Frontend Developer**.
 
 ## 🌟 About Me
 - 🎓 Engineering Student at **Dhaka University of Engineering & Technology (DUET)**.  
-- 💻 Creating responsive, user-friendly designs.  
-- 🔐 Exploring **cybersecurity**.  
+- 💻 Creating responsive, user-friendly designs.   
 - 🐍 Learning **Python** and **Django**.  
 - 🚀 Solving competitive programming challenges.  
 
