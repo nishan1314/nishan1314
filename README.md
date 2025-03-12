@@ -1,6 +1,6 @@
 # Hi there, I'm Nishan Das! 👋
 
-Welcome to my GitHub profile! I'm a **Frontend Developer**, an aspiring **Cybersecurity Specialist**, and a **Python & Django Developer**.  
+Welcome to my GitHub profile! I'm a **Frontend Developer**.  
 
 ---
 
